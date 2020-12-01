@@ -1,0 +1,2 @@
+[1201/194146.712:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1201/200419.378:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Noelk\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\68cd53ba-f1b9-44ac-b126-a3d150ce18cf: The system cannot find the path specified. (0x3)
